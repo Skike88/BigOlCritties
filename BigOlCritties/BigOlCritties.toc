@@ -1,0 +1,11 @@
+## Interface: 11303
+## Title: Big Ol Critties		
+## DefaultState: Enabled
+## Author: Epodox/Skike	
+## Version: 0.0.1
+## Notes: Enhances your crit damage!
+## SavedVariables: BigOlCrittiesDB
+
+Luas\Config.lua
+Luas\Critties.lua
+Luas\Init.lua
